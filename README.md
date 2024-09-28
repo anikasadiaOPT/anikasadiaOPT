@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java(Swing, Spring Boot(
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 Text me on LinkedIn
-- - ⚡ I love gardening in my leisure time
+- ⚡ I love gardening in my leisure time
 - 😄 Pronouns: She/Her
 
 
