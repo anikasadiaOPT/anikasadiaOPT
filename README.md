@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I’m a passionate learner, tech enthusiast, and n
 
 ## 🌟 About Me
 - 👀 **Interests:** Exploring and learning new technologies.
-- 💞️ **Collaboration:** I’m looking to connect and collaborate on [LinkedIn](https://linkedin.com/in/yourlinkedinprofile).
-- 📫 **Reach Me:** Feel free to drop me a message on [LinkedIn](https://linkedin.com/in/yourlinkedinprofile).
+- 💞️ **Collaboration:** I’m looking to connect and collaborate on [LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/).
+- 📫 **Reach Me:** Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/)e.
 - ⚡ **Fun Fact:** I love gardening in my leisure time—it’s my way of connecting with nature. 🌱
 - 😄 **Pronouns:** She/Her
 
