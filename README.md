@@ -6,13 +6,16 @@
 
 ---
 
-🎓 I am a **first-year student** at **American International University-Bangladesh (AIUB)**, studying towards a degree in **Computer Science and Engineering**.  
+🎓 I am a **Second-year student** at **American International University-Bangladesh (AIUB)**, studying towards a degree in **Computer Science and Engineering**.  
 💡 My focus is on **AI**, **Machine Learning**, and **Cloud Technologies**.
 
 ---
 
 ## 🛠️ Technologies and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=matplotlib)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
@@ -25,10 +28,9 @@
 ---
 
 ## ✨ About Me:
-- 🔭 I’m currently building an AI + Flashcard Mental Health App
 - 🌱 I’m learning **Machine Learning**, **AWS Cloud**, and **Next.js**
 - 📝 I write stories, love coding, and enjoy plant care 🌱
-- 💬 Ask me about AI, Java, Firebase, or Python
+- 💬 Ask me about AI, Java, Firebase, C++ or Python
 - ⚡ Fun fact: I love helping others and growing together 🌻
 
 ---
@@ -61,8 +63,7 @@
 | Platform | Handle |
 |----------|--------|
 | GitHub | [anikasadiaOPT](https://github.com/anikasadiaOPT) |
-| LinkedIn | *[Add your LinkedIn link]* |
-| Email | *[Add your email if public]* |
+| LinkedIn | *[LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/)]* |
 
 ---
 
