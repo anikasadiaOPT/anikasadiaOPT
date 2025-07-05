@@ -1,17 +1,27 @@
-# 🌟 Hello, I'm Sadia Afrin Anika! 👋
+# Hi there 👋 I'm Anika (anikasadiaOPT)
 
-Welcome to my GitHub profile! I’m a passionate learner, tech enthusiast, and nature lover. Here’s a little about me:
-
----
-
-## 🌟 About Me
-- 👀 **Interests:** Exploring and learning new technologies.
-- 💞️ **Collaboration:** I’m looking to connect and collaborate on [LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/).
-- 📫 **Reach Me:** Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/).
-- ⚡ **Fun Fact:** I love gardening in my leisure time—it’s my way of connecting with nature. 🌱
-- 😄 **Pronouns:** She/Her
+anikasadiaOPT anikasadiaOPT  
+anikasadiaOPT  
+anikasadiaOPT  
+anikasadiaOPT anikasadiaOPT
 
 ---
 
+### 🔥 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=anikasadiaOPT&theme=react-dark)
 
-💡 **"Learning is a lifelong journey—let's explore it together!"**
+---
+
+### 🐍 Snake Git Contribution Animation
+![Snake animation](https://github.com/anikasadiaOPT/anikasadiaOPT/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📊 GitHub Stats
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikasadiaOPT&layout=compact&theme=radical)
+
+---
+
+## 🌟 Thanks for visiting my profile! 🌟
