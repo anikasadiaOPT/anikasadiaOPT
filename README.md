@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sadia Afrin Anika</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%7C+AIUB;ML+and+AI+Enthusiast+%F0%9F%92%BB;Love+AI%2C+Cloud%2C+DevOps+%E2%9C%A8;Let's+Build+Together!+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%7C+AIUB;ML+and+AI+Enthusiast+%F0%9F%92%BB;Love+AI%2C+Cloud%2C+DevOps+%E2%9C%A8;Let's+Build+Together!+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 ---
