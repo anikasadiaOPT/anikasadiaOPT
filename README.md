@@ -45,18 +45,19 @@
 
 ---
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anikasadiaOPT&theme=react-dark" alt="Contribution Graph" />
 </p>
 
----
+-->
 
 ## 🐍 Snake GitHub Contribution Animation
-<p align="center">
+[<p align="center">
   <img src="https://github.com/anikasadiaOPT/anikasadiaOPT/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
+](https://raw.githubusercontent.com/anikasadiaOPT/anikasadiaOPT/output/github-contribution-grid-snake.svg
+)
 ---
 
 ## 🔗 Connect with Me
