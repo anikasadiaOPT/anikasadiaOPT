@@ -65,9 +65,9 @@
 
 | Platform | Handle |
 |----------|--------|
-| GitHub | [anikasadiaOPT](https://github.com/anikasadiaOPT) |
-| LinkedIn | *[LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/)]* |
-
+| GitHub | *[anikasadiaOPT](https://github.com/anikasadiaOPT)* |
+| LinkedIn | *[LinkedIn](https://www.linkedin.com/in/sadia-afrin-anika-613a221b5/)* |
+| Medium | *[Mediun](https://medium.com/@anikasadia2723))* |
 ---
 
 > **Thanks for visiting my profile!** 🌸  
