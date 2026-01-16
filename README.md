@@ -73,6 +73,8 @@
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B"/>
 <img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp"/>
+
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
