@@ -11,7 +11,7 @@
 💡 My focus is on **AI**, **Machine Learning**, and **Cloud Technologies**.
 
 ---
-
+<!--
 ---
 
 ## 🛠️ Skills & Technologies
@@ -47,6 +47,53 @@
 ### 🧰 Tools & Development Environment
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+-->
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=flat"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧑‍💻 Development
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java"/>
+<img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3"/>
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 Data Science
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
