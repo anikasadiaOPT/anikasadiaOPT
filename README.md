@@ -39,11 +39,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical&cache_seconds=86400" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikasadiaOPT&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anikasadiaOPT&layout=compact&theme=radical)
+
+</div>
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical" alt="Anika's GitHub stats" />
