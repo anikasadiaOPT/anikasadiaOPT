@@ -131,8 +131,13 @@
 -->
 
 ## 🐍 Snake GitHub Contribution Animation
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/anikasadiaOPT/anikasadiaOPT/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+-->
+<p align="center">
+  <img src="your-snake.gif" alt="Snake animation" />
 </p>
 
 ---
