@@ -40,11 +40,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical&cache_seconds=86400" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikasadiaOPT&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
+<!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anikasadiaOPT&show_icons=true&theme=radical" alt="Anika's GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikasadiaOPT&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 <!--## 📈 Contribution Graph
