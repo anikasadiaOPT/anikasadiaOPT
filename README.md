@@ -81,8 +81,8 @@
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
-
+<!--<td colspan="2" valign="top"> -->
+<td width="50%" valign="top">
 ### 📊 Data Science
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
