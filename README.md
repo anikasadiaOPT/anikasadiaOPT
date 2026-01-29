@@ -7,7 +7,7 @@
 ---
 
 
-🎓 I am a **Second-year student** at **American International University-Bangladesh (AIUB)**, studying towards a degree in **Computer Science and Engineering**.  
+🎓 I am a **Third-year student** at **American International University-Bangladesh (AIUB)**, studying towards a degree in **Computer Science and Engineering**.  
 💡 My focus is on **AI**, **Machine Learning**, and **Cloud Technologies**.
 
 ---
